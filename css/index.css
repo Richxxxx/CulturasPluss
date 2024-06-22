@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* INDEX CSS */
+body{
+    font-family: 'Bebas Neue', sans-serif;
+    background-color:#fff494;
+    color: #867705;
+}
+#carouselExampleCaptions img{
+    max-height: 40rem;
+    min-height: 20rem;
+}
+#barra_navegacion{
+    background-color: #f3db26;
+    
+}
+#menuDesplegable{
+    background-color: #f4ff5f;
+}
+#menuDesplegable li a:hover{
+    background-color: #f4ff5f;
+    color: #91810c;
+}
+
+/* FOOTER */
+.footer {
+    background-color: #ffffff;
+    padding: 30px ;
+    color: #333;
+    width: 100%;
+  } 
+  .footer a {
+    color: #337ab7;
+    text-decoration: none;
+  } 
+  .footer a:hover {
+    color: #23527c;
+  }
+  .footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+  }
+  .piePag {
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+
